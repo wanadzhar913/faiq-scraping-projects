@@ -12,6 +12,7 @@ I'm also hoping that this repo serves as a benchmark for my code quality over ti
 - https://mat-gaming.com/
 - https://www.leaazleeya.com/
 - https://www.bikesrepublic.com/
+- https://en.wikipedia.org/wiki/Road_signs_in_Malaysia
 
 # Datasets
 
@@ -21,3 +22,4 @@ I'm also hoping that this repo serves as a benchmark for my code quality over ti
 - https://huggingface.co/datasets/wanadzhar913/crawl-mat-gaming
 - https://huggingface.co/datasets/wanadzhar913/crawl-leaazleeya
 - https://huggingface.co/datasets/wanadzhar913/crawl-bikesrepublic
+- https://huggingface.co/datasets/wanadzhar913/wikipedia-malaysian-road-sign-images
